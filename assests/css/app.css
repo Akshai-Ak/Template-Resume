@@ -1,0 +1,136 @@
+html{
+    scroll-behavior: smooth;
+}
+#navigationbar  .navbar-nav> li >a{ 
+    color: whitesmoke;
+}
+#navigationbar  .navbar-nav> li >a:hover{ 
+    color: rgb(19, 165, 170);
+}
+.navbar{
+    background-color: rgb(4, 44, 70);
+}
+#logo{
+    color: rgb(19, 165, 170);
+    font-weight: bolder;
+}
+/*About-Me*/
+#aboutme{
+    background-color:rgb(5, 168, 173);
+    padding-top: 50px;
+    color: white;
+   padding-bottom: 50px;
+}
+table{
+    margin-top: 30px;
+    width: 100%;
+}
+#details{
+    border-bottom: 2px dotted white;
+}
+#info{
+    padding-top: 20px;
+}
+#info1{
+    padding-top: 20px;
+    color: black;
+}
+img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 3%;
+}
+#org{
+    color: rgb(66, 65, 65);
+}
+#progressbar{
+    background-color: grey;
+}
+#progress{
+    width: 50%;
+}
+#photo{
+    width: 90%;
+    background-color: darkslateblue;
+}
+#illustrator{
+    width: 95%;
+    background-color: darkslateblue;
+}
+#indesign{
+    width: 80%;
+    background-color: darkslateblue;
+}
+#jquery{
+    width: 85%;
+    background-color:rgb(78, 194, 230) ;
+}
+#wordpress{
+    width: 80%;
+    background-color:rgb(78, 194, 230) ;
+}
+#PHP{
+    width: 75%;
+    background-color:rgb(78, 194, 230) ;
+}
+#facebook{
+    width: 90%;
+    background-color: green;
+}
+#twitter{
+    width: 97%;
+    background-color: green;
+}
+#youtube{
+    width: 93%;
+    background-color: green;
+}
+#Work-Experience{
+    background-color: rgb(134, 148, 146);
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#emloyment{
+  margin-top: 30px;
+}
+#education{
+    margin-top: 60px;
+}
+#contact{
+    background-color: rgb(16, 133, 113);
+    padding-top: 5%;
+    color: white;
+}
+#send{
+    background-color: darkslategray;
+    float: right;
+    color: white;
+}
+.icon ul li{
+    display: inline-flex;
+    color: white;
+    margin-top: 20px;  
+}
+#icons1{
+    margin-left: -7%;
+}
+#icons{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: darkslategray;  
+}
+.footer{
+    background-color: darkslategray;
+    margin-top: 5%;
+}
+#back-to-top{
+    color: white;  
+}
+.fa-arrow-up{
+    color: green;
+}
